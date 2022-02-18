@@ -26,7 +26,7 @@
 
 Describe any challenges encountered while building the app.
 
-The id in my code wasn't matching to the one from the API which was preventing me from runnning the app. I was also getting a message "An error ocurred while initializing the Youtube player, but with the help of my instructor and after doing soome research, I was able to fix those mistakes.
+The id in my code wasn't matching to the one from the API which was preventing me from runnning the app. I was also getting a message "An error occurred while initializing the Youtube player, but with the help of my instructor and after doing soome research, I was able to fix those mistakes.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
