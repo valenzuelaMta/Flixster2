@@ -19,13 +19,14 @@
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+![flixter2](https://user-images.githubusercontent.com/92124196/154601830-9289db27-e7e8-4543-b4b8-1c34673bbe5a.gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
 
 Describe any challenges encountered while building the app.
+
+The id in my code wasn't matching to the one from the API which was preventing me from runnning the app. I was also getting a message "An error ocurred while initializing the Youtube player, but with the help of my instructor and after doing soome research, I was able to fix those mistakes.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
